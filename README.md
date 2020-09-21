@@ -3,11 +3,11 @@
 
 ## :pencil: Sobre mim
 
-:dart: Meu objetivo é ser uma desenvolvedora full-stack júnior
+:dart: Desenvolvedora full-stack júnior
 
-:girl: Tenho 19 anos
+:girl: 19 anos
 
-:house: Moro em São Paulo/SP - Zona Leste
+:house: São Paulo/SP - Zona Leste
 
 ----
 
