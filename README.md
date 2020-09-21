@@ -41,7 +41,7 @@ Técnico em Informática 2017-2018
 
 ----
 
-### :trophy: Prêmios e certificados
+## :trophy: Prêmios e certificados
 
 * 1º lugar na maratona de programação InterEtecs com premiação na Oracle;
 * Projeto Aluno MB (ETEC);
@@ -54,7 +54,7 @@ Técnico em Informática 2017-2018
 
 ----
 
-### :pushpin: Conhecimentos (que já utilizei em projetos)
+## :pushpin: Conhecimentos (que já utilizei em projetos)
 
 * SQL
 * Orientação a objetos
@@ -79,7 +79,7 @@ Técnico em Informática 2017-2018
 
 ----
 
-### :book: Aprendendo
+## :book: Aprendendo
 
 * Angular
 * Firebase
