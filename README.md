@@ -17,4 +17,6 @@
 
 :email: erikaramosalmeida90@gmail.com
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 
