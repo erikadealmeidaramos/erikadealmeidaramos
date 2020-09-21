@@ -27,10 +27,19 @@
 ### :office: Iriz Soluções em TI LTDA ME
 
 Estágio. 18/02/2019 - Presente
-* Desenvolvimento WEB com PHP,
-HTML, CSS, Javascript, JQuery,
-Bootstrap e MySQL;
-* Desenvolvimento mobile com Ionic
-e Flutter;
-* Testes, homologações e
-manutenções de código.
+* Desenvolvimento WEB com PHP, HTML, CSS, Javascript, JQuery, Bootstrap e MySQL;
+* Desenvolvimento mobile com Ionic e Flutter;
+* Testes, homologações e manutenções de código.
+
+## :classical_building: Formação acadêmica
+
+----
+
+### Faculdade de Tecnologia - FATEC
+Tecnologia em Análise e Desenvolvimento de Sistemas 2019-2021
+
+### Escola Técnica Estadual - ETEC
+Técnico em Informática 2017-2018
+
+
+
