@@ -3,7 +3,7 @@
 
 ## :pencil: Sobre mim
 
-:dart: Desenvolvedora full-stack júnior
+:dart: Desenvolvedora full-stack
 
 :girl: 19 anos
 
