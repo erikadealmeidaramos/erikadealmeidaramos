@@ -17,6 +17,6 @@
 
 :email: erikaramosalmeida90@gmail.com
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Erika de Almeida Ramos](https://www.linkedin.com/in/erikadealmeidaramos/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) erikadealmeidaramos](https://www.linkedin.com/in/erikadealmeidaramos/)
 &nbsp;
 
