@@ -54,7 +54,7 @@ Técnico em Informática 2017-2018
 
 ----
 
-### :pushpin: Conhecimentos
+### :pushpin: Conhecimentos (que já utilizei em projetos)
 
 * SQL
 * Orientação a objetos
@@ -70,7 +70,6 @@ Técnico em Informática 2017-2018
 * Flutter
 * Microsoft Office
 * UML
-* Linux
 * Scrum
 * Kanban
 * JQuery
@@ -86,4 +85,5 @@ Técnico em Informática 2017-2018
 * Firebase
 * Adobe XD
 * Figma
+* Linux
 
