@@ -1,7 +1,7 @@
 # Erika de Almeida Ramos
 
 
-:pencil: ##Sobre mim
+## :pencil: Sobre mim
 
 :dart: Meu objetivo é ser uma desenvolvedora full-stack júnior
 
@@ -11,4 +11,4 @@
 
 ----
 
-:telephone: ##Contato
+## :telephone: Contato
