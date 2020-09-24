@@ -1,1 +1,1 @@
-<img src="curriculo visual v3.jpg">
+<img src="curriculo visual.jpg">
