@@ -2,6 +2,8 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 </a>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Erikão;Full+Stack+Developer)
+
 <img src="curriculo_erika.jpg">
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikadealmeidaramos&show_icons=true&theme=synthwave)
