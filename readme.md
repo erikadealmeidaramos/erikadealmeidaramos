@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Erikão;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=35&center=true&vCenter=true&width=1000&lines=Erikão;Full+Stack+Developer)
 
 <img src="curriculo_erika.jpg">
 
