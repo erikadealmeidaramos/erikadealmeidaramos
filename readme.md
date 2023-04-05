@@ -13,10 +13,10 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erikadealmeidaramos&show_icons=true&theme=synthwave&count_private=true&bg_color=6C63FF&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erikadealmeidaramos&show_icons=true&theme=synthwave&count_private=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadealmeidaramos&langs_count=8&count_private=false&layout=compact&theme=synthwave&bg_color=6C63FF&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadealmeidaramos&langs_count=8&count_private=false&theme=synthwave"/>
   </a>
 </div> 
 
