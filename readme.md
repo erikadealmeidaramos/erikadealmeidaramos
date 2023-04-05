@@ -8,10 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadealmeidaramos&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
-</a>
-
 <div align="center">
   <br>
   <a href="#">
@@ -23,3 +19,7 @@
 </div> 
 
 ![snake gif](https://github.com/erikadealmeidaramos/erikadealmeidaramos/blob/output/github-contribution-grid-snake.svg)
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</a>
