@@ -2,10 +2,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 </a>
 
-<p float="left">
-  <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center"/>
+<p align="middle">
+  <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20"/>
   <img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=35&center=true&vCenter=true&width=1000&lines=Erikão;Full+Stack+Developer"/>
-  <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center"/>
+  <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20"/>
 </p>
 
 <div align="center">
