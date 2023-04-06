@@ -36,9 +36,7 @@
 
   <div align="center">
     <br>
-  
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikadealmeidaramos&theme=synthwave&hide_border=true"/>
-      
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikadealmeidaramos&theme=synthwave&hide_border=true"/>   
     <br>
     <br>
     <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
