@@ -33,8 +33,10 @@
     <a href="https://www.linkedin.com/in/erikadealmeidaramos/"><img title="linkedin.com/in/erikadealmeidaramos" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikaramosalmeida90@gmail.com)](mailto:erikaramosalmeida90@gmail.com)
+
 </div>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikaramosalmeida90@gmail.com)](mailto:erikaramosalmeida90@gmail.com)
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
