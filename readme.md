@@ -15,6 +15,15 @@
 </div>
 <br>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,git,github,gitlab,vscode,react,docker,spring,html,css,js,ts,bootstrap,androidstudio,maven,mongodb,eclipse,figma,ps,java,php,firebase,jquery,mysql,sqlite" />
+  </a>
+</p>
+
+<br>
+
 <img src="curriculo_erika.jpg">
 
 <div align="center">
@@ -43,12 +52,6 @@
 
 ![snake gif](https://github.com/erikadealmeidaramos/erikadealmeidaramos/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,git,github,gitlab,vscode,react,docker,spring,html,css,js,ts,bootstrap,androidstudio,maven,mongodb,eclipse,figma,ps,java,php,firebase,jquery,mysql,sqlite" />
-  </a>
-</p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
