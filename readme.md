@@ -30,7 +30,7 @@
 
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jeffersonrpm/"><img title="linkedin.com/in/erikadealmeidaramos" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/erikadealmeidaramos/"><img title="linkedin.com/in/erikadealmeidaramos" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
 </div>
