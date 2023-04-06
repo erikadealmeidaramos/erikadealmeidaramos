@@ -32,6 +32,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/erikadealmeidaramos/"><img title="linkedin.com/in/erikadealmeidaramos" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikaramosalmeida90@gmail.com)](mailto:erikaramosalmeida90@gmail.com)
   </p>
 </div>
 
