@@ -8,9 +8,7 @@
 
 <img src="curriculo_erika.jpg">
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikadealmeidaramos&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikadealmeidaramos&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
--->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikadealmeidaramos&theme=synthwave&hide_border=true"/>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
