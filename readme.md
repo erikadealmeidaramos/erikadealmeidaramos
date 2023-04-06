@@ -44,6 +44,12 @@
 
 ![snake gif](https://github.com/erikadealmeidaramos/erikadealmeidaramos/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,git,vscode,react,html,css,js,ts,bootstrap,androidstudio,java,php,ionic,firebase,jquery,mysql,sqlite" />
+  </a>
+</p>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 </a>
