@@ -14,7 +14,6 @@
     <a target="_blank" href="https://github.com/Begin-org"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Begin-org"/></a>
 </div>
 <br>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <img src="curriculo_erika.jpg">
 
