@@ -30,8 +30,8 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erikadealmeidaramos/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikadealmeidaramos/)</a>
-  <a href="mailto:erikaramosalmeida90@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikaramosalmeida90@gmail.com)</a>
+  <a href="https://www.linkedin.com/in/erikadealmeidaramos/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikadealmeidaramos/"/></a>
+  <a href="mailto:erikaramosalmeida90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikaramosalmeida90@gmail.com"/></a>
 </div>
 
 
