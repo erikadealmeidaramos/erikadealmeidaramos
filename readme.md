@@ -26,9 +26,9 @@
 
 <details close="true">
   <summary><b>:bookmark_tabs: &nbsp;Resume</b></summary>
-
+ <br>
 <img src="curriculo_erika.jpg">
-
+ <br>
 </details>
 
 <details close="true">
