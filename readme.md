@@ -40,6 +40,18 @@
 
 ![snake gif](https://github.com/erikadealmeidaramos/erikadealmeidaramos/blob/output/github-contribution-grid-snake.svg)
 
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=erikadealmeidaramos&show_icons=true&theme=synthwave" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikadealmeidaramos&hide=html&layout=compact&theme=synthwave" />
+ </div>
+ 
+ 
+</details>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
