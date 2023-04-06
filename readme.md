@@ -4,7 +4,7 @@
 
 <p align="middle">
   <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="2%" height="20"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=50&center=true&vCenter=true&font=Poppins&weight=800lines=Erikão;Full+Stack+Developer" width="90%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=50&center=true&vCenter=true&font=Poppins&weight=800&lines=Erikão;Full+Stack+Developer" width="90%"/>
   <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="2%" height="20"/>
 </p>
 
