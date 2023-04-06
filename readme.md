@@ -25,7 +25,7 @@
 <br>
 
 <details close="true">
-  <summary><b>:paper: &nbsp;Resume</b></summary>
+  <summary><b>:bookmark_tabs: &nbsp;Resume</b></summary>
 
 <img src="curriculo_erika.jpg">
 
