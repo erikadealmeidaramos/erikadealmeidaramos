@@ -2,11 +2,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 </a>
 
-<h2 align="center">
+<div align="center">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=35&center=true&vCenter=true&width=1000&lines=Erikão;Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=35&center=true&vCenter=true&width=1000&lines=Erikão;Full+Stack+Developer"/>
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
-</h2>
+</div>
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/erikadealmeidaramos/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikadealmeidaramos/"/></a>
