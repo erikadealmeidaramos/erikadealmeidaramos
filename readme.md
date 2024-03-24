@@ -9,7 +9,9 @@
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/erikadealmeidaramos/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikadealmeidaramos/"/></a>
   <a target="_blank" href="mailto:erikaramosalmeida90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikaramosalmeida90@gmail.com"/></a>
-    <a target="_blank" href="https://github.com/Begin-org"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Begin-org"/></a>
+  <a target="_blank" href="https://github.com/Begin-org"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Begin-org"/></a>
+  <br>
+  <h4>No momento, meu objetivo é crescer dentro do Mercado Livre, aprimorando minhas habilidades como desenvolvedora backend com ênfase em Golang, TDD, Solid, Design Patterns e System Design</h4>
 </div>
 <br>
 
