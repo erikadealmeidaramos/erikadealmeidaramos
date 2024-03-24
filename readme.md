@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,redux,angular,git,github,githubactions,gitlab,vscode,androidstudio,eclipse,idea,figma,ps,docker,html,css,sass,bootstrap,styledcomponents,js,ts,webpack,jquery,regex,mysql,sqlite,mongodb,maven,gradle,go,java,spring,php,nodejs,sequelize,firebase,azure,postman,stackoverflow,linux" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,redux,git,github,githubactions,gitlab,vscode,androidstudio,eclipse,idea,figma,ps,docker,html,css,sass,bootstrap,styledcomponents,js,ts,jquery,regex,mysql,sqlite,mongodb,maven,gradle,go,java,spring,php,nodejs,sequelize,firebase,azure,postman,stackoverflow,linux" />
   </a>
 </p>
 
